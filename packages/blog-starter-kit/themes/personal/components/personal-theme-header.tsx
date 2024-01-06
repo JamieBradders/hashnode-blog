@@ -64,7 +64,7 @@ export const PersonalHeader = () => {
 			<div className="col-span-full md:col-span-1">
 				<h1>
 					<Link
-						className="flex flex-row items-center gap-2 text-lg font-bold leading-tight tracking-tight text-black dark:text-white"
+						className="flex flex-row items-center gap-2 text-lg leading-tight tracking-tight text-black dark:text-white"
 						href="/"
 						aria-label={`${publication.author.name}'s blog home page`}
 					>
